@@ -7,3 +7,4 @@ venv/
 .env
 .vscode/
 .ipynb_checkpoints/
+data/creditcard.csv
