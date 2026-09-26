@@ -54,10 +54,8 @@ Credit_Card_Fraud_Detection/
 │
 ├── app.py
 ├── fraud_model.pkl
-│
-├── data/
-│   └── creditcard.csv
-│
+
+
 ├── notebook/
 │   ├── fraud_analysis.py
 │   └── test_model.py
