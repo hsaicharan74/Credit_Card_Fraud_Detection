@@ -1,3 +1,4 @@
+![Credit Card Fraud Detection](app_screenshot.png)
 # 💳 Credit Card Fraud Detection
 
 A Machine Learning based web application that detects potentially fraudulent credit card transactions using a Random Forest Classifier and Streamlit.
